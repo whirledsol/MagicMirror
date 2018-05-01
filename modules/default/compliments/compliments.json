@@ -1,0 +1,136 @@
+{
+    "anytime" : [
+        "Hey there sexy!",
+	"Keep it up!",
+	"Love you butternut!",
+	"I'm more than a pretty face.",
+	"Failure is just another kind of success. The wrong kind.",
+	"Fly where you will, i will follow you there!",
+	"Loosing weight, I like it!",
+	"Gaining weight, I like it!",
+	"It's in the bag!",
+	"Ooh, who's that handsome devil?",
+	"Oh hey. Come here often?",
+	"You matter.",
+	"Every day improves.",
+	"Things get better.",
+	"Up, up, and away!",
+	"To infinity and that's far enough.",
+	"Live long and prosper",
+	"What's up doc?",
+	"So what?",
+	"You got this!"
+    ],
+    "morning" : [
+        "Good morning, sunshine!",
+        "Who needs coffee when you have your smile?",
+        "Go get 'em, Tiger!",
+	"Woah! Lookin good!",
+	"Stunning, sunshine.",
+	"My my aren't you looking radiant today?",
+	"I have a feeling today will be great!",
+	"Only a few more hours...",
+	"My spark isn't so dead as it may seem.",
+	"Let the fun begin!",
+	"Giddy up!",
+	"Breathe",
+	"I have a good feeling bout this.",
+    ],
+    "afternoon" : [
+        "Hitting your stride!",
+        "You are making a difference!",
+        "You're more fun than bubble wrap!",
+	"Is it Friday yet?",
+	"Only a few more hours!",
+	"It's tea time somewhere..."
+    ],
+    "evening" : [
+        "You made someone smile today, I know it.",
+        "You are making a difference.",
+        "The day was better for your efforts.",
+	"You survived another day!",
+	"Take a load off, champ!",
+	"No Korean War today!",
+	"Get some rest.",
+	"Have you kissed your cutie today?",
+	"Night-time is my time.",
+	"Breathe",
+	"Remember self care."
+
+    ],
+    "snow" : [
+	"You're a special snowflake.",
+	"SNOW DAY!",
+	"Let's kick some ice!"
+    ],
+    "rain" : [
+	"God is in the rain.",
+	"No need to water the plants.",
+	"Looks like rain.",
+	"Stay dry out there!",
+	"Stormy weather time!",
+	"Told you a storm was coming!",
+	"Don't forget your umbrella!",
+	"Smell that petrichor",
+	"Don't rain on my parade."
+    ],
+    "showers" : [
+	"God is in the rain.",
+	"Water the plants. Got that squared away.",
+	"Looks like rain.",
+	"Stay dry out there!",
+	"Stormy weather time!",
+	"Told you a storm was coming!",
+	"Look for that rainbow!",
+	"The gays are coming!",
+	"Don't forget your umbrella!",
+	"Deluge. A word here that means...rain."
+    ],
+    "thunderstorm" : [
+	"God is in the rain.",
+	"Stay dry out there!",
+	"Stormy weather time!",
+	"Told you a storm was coming!",
+	"It'll all blow over soon.",
+	"I love the smell of ozone in the morning!",
+	"It's electric. Boogie woogie woogie.",
+	"Don't forget your umbrella!",
+	"Urbosa's fury is ready!"
+    ],
+    "cloudy" : [
+	"Make your own sunshine.",
+	"No sunscreen needed today.",
+	"The clouds will part soon enough.",
+	"A cloudy day is no match for a sunny disposition.",
+	"I've got sunshine on a cloudy day...",
+	"Upgrade to the cloud",
+	"The old north wind...",
+	"What a nebulous day.",
+	"Clouds are nature's umbrellas.",
+	"There are only 160 cloudy days a year.",
+	"Ain't no sunshine when she's gone..."
+    ],
+    "day_cloudy" : [
+	"Make your own sunshine.",
+	"No sunscreen needed today.",
+	"The clouds will part soon enough.",
+	"A cloudy day is no match for a sunny disposition.",
+	"I've got sunshine on a cloudy day...",
+	"Upgrade to the cloud",
+	"The old north wind...",
+	"What a nebulous day.",
+	"Clouds are nature's umbrellas.",
+	"There are only 160 cloudy days a year.",
+	"Ain't no sunshine when she's gone..."
+    ],
+    "day_sunny" : [
+	"Today is going to rock!",
+	"At least it's sunny out!",
+	"Take a walk today!",
+	"Get some sun!",
+	"Soak in some rays!",
+	"Good times are here again!",
+	"Why are you looking here? It's sunny."
+    ]
+}
+
